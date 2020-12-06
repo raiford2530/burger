@@ -3,9 +3,9 @@
 ## Description  
 Eat-Da-Burger is a simple web app for users to enter burgers that they want to eat and then indicate when they have eaten the burgers. The app was created using Node.js along with the express node package to create the server, the handlebars node package to serve up templates from the server, and mysql to store and retrieve information from the backend.
 
-[Screenshot 1]!(./screenshot1.PNG)  
-[Screenshot 2]!(./screenshot2.PNG)
-[Screenshot 3]!(./screenshot3.PNG)  
+![Screenshot 1](/screenshot1.PNG)  
+![Screenshot 2](/screenshot2.PNG)  
+![Screenshot 3](/screenshot3.PNG)  
 
 ## Table of Contents  
 [Usage](#Usage)  
